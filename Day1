@@ -2,3 +2,12 @@ What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). 
 It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
 DevOps is complementary with Agile software development; several DevOps aspects came from Agile methodology.
+===================================================================================================================
+What are the benefits of DevOps?
+The main benefits of DevOps include:
+Faster delivery of features
+More stable operating environments
+Improved communication and collaboration
+More time to innovate (rather than fix/maintain)
+Reduced deployment failures and rollbacks
+Shorter mean time to recovery
