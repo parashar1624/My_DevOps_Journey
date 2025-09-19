@@ -27,4 +27,7 @@ Keep the build fast
 Test in a clone of the production environment
 Make it easy to get the latest deliverables
 Everyone can see the results of the latest build
-Automate deployment
+Automate deployments
+====================================================================================================================
+What is Docker?
+Docker is a platform for developing, shipping, and running applications in containers. Containers allow developers to package up an application with all the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
