@@ -31,3 +31,8 @@ Automate deployments
 ====================================================================================================================
 What is Docker?
 Docker is a platform for developing, shipping, and running applications in containers. Containers allow developers to package up an application with all the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+======================================================================================================================
+What is the difference between Docker Image and Docker Container?
+Docker Image: A Docker image is a read-only template containing a set of instructions for creating a Docker container. It includes the application code, runtime, libraries, dependencies, and system tools.
+
+Docker Container: A container is a runnable instance of an image. You can create, start, stop, move, or delete a container using the Docker API or CLI. A container is isolated from other containers and the host machine.
