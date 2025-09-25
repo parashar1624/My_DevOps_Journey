@@ -10,3 +10,6 @@ RUN npm install
 COPY . .
 EXPOSE 3000
 CMD ["npm", "start"]
+===================================================================================
+What is Kubernetes?
+Kubernetes (K8s) is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
